@@ -1,0 +1,14 @@
+{
+  "name": "parcel-namer-29a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "namer.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "engines": {
+    "parcel": "2.x"
+  }
+}
